@@ -1,0 +1,5 @@
+{
+  "name": "Code Snippet to PNG",
+  "description": "A simple tool to convert code snippets into beautiful PNG images that can be easily copied and pasted into presentations like Google Slides.",
+  "requestFramePermissions": []
+}
